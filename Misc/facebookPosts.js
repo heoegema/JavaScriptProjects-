@@ -7,7 +7,4 @@ for(let x of elementList) {
       console.log(x.innerText);
 
    } 
-
-
-
 } 
